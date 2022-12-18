@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 use App\Models\User;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\Api\AuthController;
-use App\Models\Category;
+use App\Models\Category; 
 
 /*
 |--------------------------------------------------------------------------
